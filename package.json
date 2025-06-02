@@ -1,0 +1,36 @@
+{
+  "name": "obsidian",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "build": "hexo generate",
+    "clean": "hexo clean",
+    "deploy": "hexo deploy",
+    "server": "hexo server",
+    "changelog": "conventional-changelog -p angular -i CHANGELOG.md -s",
+    "commit": "git add . && czg emoji"
+  },
+  "hexo": {
+    "version": "7.3.0"
+  },
+  "dependencies": {
+    "hexo": "^7.3.0",
+    "hexo-bilibili-bangumi": "^1.10.8",
+    "hexo-generator-archive": "^2.0.0",
+    "hexo-generator-category": "^2.0.0",
+    "hexo-generator-index": "^4.0.0",
+    "hexo-generator-tag": "^2.0.0",
+    "hexo-renderer-ejs": "^2.0.0",
+    "hexo-renderer-marked": "^7.0.0",
+    "hexo-renderer-pug": "^3.0.0",
+    "hexo-renderer-stylus": "^3.0.1",
+    "hexo-server": "^3.0.0",
+    "hexo-theme-landscape": "^1.0.0",
+    "hexo-wordcount": "^6.0.1"
+  },
+  "devDependencies": {
+    "conventional-changelog-cli": "^5.0.0",
+    "czg": "^1.11.1",
+    "hexo-theme-anzhiyu": "^1.6.14"
+  }
+}

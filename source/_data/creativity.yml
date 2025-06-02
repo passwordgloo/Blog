@@ -1,0 +1,44 @@
+- class_name: 开启创造力
+  creativity_list:
+    - name: Acrobat
+      color: "#c80a0a"
+      icon: https://file.iglooblog.top/blog/icon/acrobat.svg
+    - name: Access
+      color: "#fff"
+      icon: https://file.iglooblog.top/blog/icon/access.svg
+    - name: Photoshop
+      color: "#001d23"
+      icon: https://file.iglooblog.top/blog/icon/ps.svg
+    - name: PR
+      color: "#2c083d"
+      icon: https://file.iglooblog.top/blog/icon/pr.svg
+    - name: An
+      color: "#260600"
+      icon: https://file.iglooblog.top/blog/icon/an.svg
+    - name: Onenote
+      color: "#fff"
+      icon: https://file.iglooblog.top/blog/icon/onenote.svg
+    - name: Id
+      color: "#49021f"
+      icon: https://file.iglooblog.top/blog/icon/id.svg
+    - name: Word
+      color: "#fff"
+      icon: https://file.iglooblog.top/blog/icon/word.svg
+    - name: Excel
+      color: "#fff"
+      icon: https://file.iglooblog.top/blog/icon/excel.svg
+    - name: Xd
+      color: "#2e0020"
+      icon: https://file.iglooblog.top/blog/icon/xd.svg
+    - name: Au
+      color: "#002620"
+      icon: https://file.iglooblog.top/blog/icon/au.svg
+    - name: Ai
+      color: "#271302"
+      icon: https://file.iglooblog.top/blog/icon/ai.svg
+    - name: HTML
+      color: "#fff"
+      icon: https://file.iglooblog.top/blog/icon/html.svg
+    - name: CSS
+      color: "#fff"
+      icon: https://file.iglooblog.top/blog/icon/css.svg
