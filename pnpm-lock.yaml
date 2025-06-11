@@ -41,9 +41,6 @@ importers:
       hexo-server:
         specifier: ^3.0.0
         version: 3.0.0
-      hexo-theme-landscape:
-        specifier: ^1.0.0
-        version: 1.1.0
       hexo-wordcount:
         specifier: ^6.0.1
         version: 6.0.1
@@ -692,9 +689,6 @@ packages:
 
   hexo-theme-anzhiyu@1.6.14:
     resolution: {integrity: sha512-Ltbsaf1URcFfZuqMVeDvRM1XUjC/PYbXtgbv9V9FVjfv85sotELCEjX+PbkangyGFvlO0oWNJeEjNS9/UUF13w==}
-
-  hexo-theme-landscape@1.1.0:
-    resolution: {integrity: sha512-nszjixBEiEDZjf7glAGbHg0nKGHZdUDwzFVVdRDeu4FeHfGcY5CZNl9sF4vSligjnD8IwFXpDfx5E+GRmNKvWg==}
 
   hexo-util@3.3.0:
     resolution: {integrity: sha512-YvGngXijE2muEh5L/VI4Fmjqb+/yAkmY+VuyhWVoRwQu1X7bmWodsfYRXX7CUYhi5LqsvH8FAe/yBW1+f6ZX4Q==}
@@ -2063,8 +2057,6 @@ snapshots:
       hexo-renderer-stylus: 3.0.1
     transitivePeerDependencies:
       - supports-color
-
-  hexo-theme-landscape@1.1.0: {}
 
   hexo-util@3.3.0:
     dependencies:

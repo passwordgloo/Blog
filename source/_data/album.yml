@@ -1,0 +1,75 @@
+- class_name: 街拍美景
+  path_name: /street
+  type: 2
+  description: 每一座城市都会有一个主题，往往用一条中心大街来表现。
+  cover: https://file.iglooblog.top/blog/album/image-20250611154240313.png
+  top_background: https://file.iglooblog.top/blog/album/image-20250611153902127.png
+  rowHeight: 220
+  limit: 10
+  lazyload: true
+  btnLazyload: false
+  url: false
+  top_link: /album
+  top_btn_text: 返回
+  album_list:
+    - date: 2025/06/08 16:45
+      content: 草地
+      address: 万荣路
+      from: 小黑子
+      image:
+        - https://file.iglooblog.top/blog/album/image-20250611152213930.png
+    - date: 2025-06-08 17:41
+      content: 特色门头招牌
+      address: 鼓楼区大洋百货附近
+      from: 偶像
+      image:
+        - https://file.iglooblog.top/blog/album/image-20250611152544904.png
+        - https://file.iglooblog.top/blog/album/image-20250611152624760.png
+        - https://file.iglooblog.top/blog/album/image-20250611152602875.png
+        - https://file.iglooblog.top/blog/album/image-20250611152707098.png
+        - https://file.iglooblog.top/blog/album/image-20250611152731369.png
+        - https://file.iglooblog.top/blog/album/image-20250611152842808.png
+    - date: 2025/06/05 18:22
+      content: 山海经AI展览
+      address: 热河南路itcall
+      from: 预见
+      image:
+        - https://file.iglooblog.top/blog/album/image-20250611154832167.png
+        - https://file.iglooblog.top/blog/album/image-20250611154846291.png
+        - https://file.iglooblog.top/blog/album/image-20250611155011776.png
+        - https://file.iglooblog.top/blog/album/image-20250611155035601.png
+        - https://file.iglooblog.top/blog/album/image-20250611155138430.png
+        - https://file.iglooblog.top/blog/album/image-20250611155219894.png
+        - https://file.iglooblog.top/blog/album/image-20250611155322041.png
+        - https://file.iglooblog.top/blog/album/image-20250611155344360.png
+        - https://file.iglooblog.top/blog/album/image-20250611155457461.png
+        - https://file.iglooblog.top/blog/album/image-20250611155518462.png
+
+- class_name: 我的日常
+  path_name: /daily
+  type: 1
+  description: 日常生活
+  top_link: /album
+  top_btn_text: 返回
+  top_background: https://file.iglooblog.top/blog/album/image-20250611155750598.png
+  cover: https://bu.dusays.com/2023/04/09/64329399cea5a.webp
+  album_list:
+    - date: 2024-10-16 12:40
+      content: 国防训练
+      image:
+        - https://file.iglooblog.top/blog/album/image-20250611160327095.png
+        - https://file.iglooblog.top/blog/album/image-20250611160431829.png
+        - https://file.iglooblog.top/blog/album/image-20250611160453525.png
+        - https://file.iglooblog.top/blog/album/image-20250611161958456.png
+        - https://file.iglooblog.top/blog/album/image-20250611162026321.png
+        - https://file.iglooblog.top/blog/album/image-20250611162054806.png
+        - https://file.iglooblog.top/blog/album/image-20250611162125522.png
+        - https://file.iglooblog.top/blog/album/image-20250611162156208.png
+        - https://file.iglooblog.top/blog/album/image-20250611162220402.png
+        - https://file.iglooblog.top/blog/album/image-20250611162303184.png
+        - https://file.iglooblog.top/blog/album/image-20250611162316187.png
+        - https://file.iglooblog.top/blog/album/image-20250611162612588.png
+        - https://file.iglooblog.top/blog/album/image-20250611162942421.png
+        - https://file.iglooblog.top/blog/album/image-20250611162949636.png
+        - https://file.iglooblog.top/blog/album/image-20250611162934947.png
+        - https://file.iglooblog.top/blog/album/image-20250611162925755.png
