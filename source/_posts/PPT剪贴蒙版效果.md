@@ -1,6 +1,6 @@
 ---
 title: PPT剪贴蒙版效果
-cover: /img/ppt/剪贴蒙版效果.jpg
+cover: /img/汇报讲解.png
 categories:
   - PPT技巧
 date: 2025-03-19 22:26:38

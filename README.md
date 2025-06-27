@@ -1,2 +1,10 @@
 # Blog
-my personal blog
+## hexo-bilibili-bangumi
+
+> [!tip]
+>
+> SESSDATA需要调用cookie
+
+hexo cinema -u SESSDATA
+
+hexo bangumi -u SESSDATA
