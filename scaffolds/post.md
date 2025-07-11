@@ -1,7 +1,8 @@
 ---
 title: {{ title }}
 date: {{ date }}
-cover: /img/书虫.png
+cover: /img/社会舆情报告.png
 tags:
 categories:
+  - 舆情
 ---
