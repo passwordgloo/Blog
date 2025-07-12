@@ -1,13 +1,13 @@
 {
   "name": "obsidian",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "private": true,
   "scripts": {
     "build": "hexo generate",
     "clean": "hexo clean",
     "deploy": "hexo deploy",
     "server": "hexo server",
-    "changelog": "conventional-changelog -p angular -i CHANGELOG.md -s",
+    "changelog": "conventional-changelog -p angular -i CHANGELOG.md -s -r 0",
     "commit": "git add . && czg emoji"
   },
   "hexo": {
@@ -15,6 +15,7 @@
   },
   "dependencies": {
     "hexo": "^7.3.0",
+    "hexo-algoliasearch": "^2.0.1",
     "hexo-bilibili-bangumi": "^1.10.8",
     "hexo-generator-archive": "^2.0.0",
     "hexo-generator-category": "^2.0.0",

@@ -13,7 +13,7 @@ timezone: ''
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: http://example.com
+url: https://note.iglooblog.top
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
@@ -68,6 +68,24 @@ index_generator:
 default_category: uncategorized
 category_map:
 tag_map:
+
+# algolia搜索
+
+algolia:
+  appId: "BVJ1OL0BG4"
+  apiKey: "33c38236b2bbaf32e56127f93e8a1d7d"
+  adminApiKey: "453c0e9f98cf4cb36e8cfe563aaf3bc0"
+  chunkSize: 5000
+  indexName: "hexo"
+  fields:
+    - content:strip:truncate,0,200
+    - excerpt:strip
+    - gallery
+    - permalink
+    - photos
+    - slug
+    - tags
+    - title
 
 # 追番插件
 # https://github.com/HCLonely/hexo-bilibili-bangumi
