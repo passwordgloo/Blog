@@ -1,7 +1,7 @@
 ---
 title: {{ title }}
 date: {{ date }}
-cover: /img/社会舆情报告.png
+cover: https://file.iglooblog.top/blog/cover/社会舆情报告.png
 tags:
 categories:
   - 舆情

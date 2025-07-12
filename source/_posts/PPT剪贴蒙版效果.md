@@ -1,6 +1,6 @@
 ---
 title: PPT剪贴蒙版效果
-cover: /img/汇报讲解.png
+cover: https://file.iglooblog.top/blog/cover/汇报讲解.png
 categories:
   - PPT技巧
 date: 2025-03-19 22:26:38

@@ -1,6 +1,6 @@
 ---
 title: ai自媒体打造
-cover: /img/随想录.png
+cover: https://file.iglooblog.top/blog/cover/随想录.png
 date: 2025-07-06 21:07:33
 tags:
 categories:

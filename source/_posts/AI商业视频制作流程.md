@@ -1,6 +1,6 @@
 ---
 title: AI商业视频制作流程
-cover: /img/AI课程.png
+cover: https://file.iglooblog.top/blog/cover/AI课程.png
 categories:
 date: 2025-07-11 19:51:02
 tags:
