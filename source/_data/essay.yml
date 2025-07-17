@@ -1,0 +1,30 @@
+- title: 即刻短文
+  subTitle: 风起云涌的生活
+  tips: 随时随地，分享生活
+  buttonText: 关于我
+  buttonLink: /about/
+  limit: 30
+  home_essay: true
+  top_background: https://file.iglooblog.top/blog/cover/IMG_6622.JPG
+  essay_list:
+    - content: 博客功能趋于完善，能够正常使用了，nice😊
+      date: 2025/07/16
+    - content: 彗星文档接入meilisearch，🐮🍺
+      date: 2025/05/20
+      link: https://law.iglooblog.top
+      from: 彗星
+
+    # - content: 遇见彩虹🌈吃定彩虹
+    #   date: 2022/10/23 10:00:00
+    #   image:
+    #     - https://bu.dusays.com/2023/04/09/64329399e285d.webp
+
+    # - content: 歌曲推荐
+    #   date: 2022/09/25
+    #   aplayer:
+    #     server: tencent
+    #     id: 001FGQba3i10mw
+
+    # - content: JOJO是真的好看！
+    #   date: 2022/09/21
+    #   link: https://www.bilibili.com/bangumi/play/ss39431?spm_id_from=333.337.0.0
