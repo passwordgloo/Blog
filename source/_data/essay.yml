@@ -7,17 +7,17 @@
   home_essay: true
   top_background: https://file.iglooblog.top/blog/cover/IMG_6622.JPG
   essay_list:
+    - content: 学会用Midjourney创作图片了
+      date: 2025/07/18 22:00:00
+      image:
+        - https://file.iglooblog.top/blog/album/TensAI_FBt6b0MRK5mLEwZCS_iP9.jpg
+        - https://file.iglooblog.top/blog/album/TensAI_YXjcEEQrEJzXaBY_K1qCU.jpg
     - content: 博客功能趋于完善，能够正常使用了，nice😊
       date: 2025/07/16
     - content: 彗星文档接入meilisearch，🐮🍺
       date: 2025/05/20
       link: https://law.iglooblog.top
       from: 彗星
-
-    # - content: 遇见彩虹🌈吃定彩虹
-    #   date: 2022/10/23 10:00:00
-    #   image:
-    #     - https://bu.dusays.com/2023/04/09/64329399e285d.webp
 
     # - content: 歌曲推荐
     #   date: 2022/09/25

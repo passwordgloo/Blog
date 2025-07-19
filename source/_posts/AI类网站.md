@@ -7,4 +7,5 @@ categories:
   - 网站分享
 ---
 
-提供AI导航
+AI类网站可访问[云帆导航](https://nav.iglooblog.top)
+
